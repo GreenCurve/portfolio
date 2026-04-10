@@ -8,7 +8,7 @@ building things that work — and understanding why they do.
 ## Featured Visualization
 
 Below is an interactive demo built with Shiny for Python, 
-demonstrating OOP-based data generation and charting. TEEEEEEST
+demonstrating OOP-based data generation and charting.
 
 
 <iframe 
