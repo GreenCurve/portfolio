@@ -57,7 +57,7 @@ class ChartBuilder:
             <div style="display:inline-block; margin:2px; text-align:center;">
               <div style="
                 width:28px; height:{height}px;
-                background: linear-gradient(180deg, #4f8ef7, #1a3a8f);
+                background: linear-gradient(180deg, #ff9f43, #e67e22);
                 border-radius:4px 4px 0 0;
               "></div>
               <div style="font-size:10px; color:#555;">{x_val}</div>
