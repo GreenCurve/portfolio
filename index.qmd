@@ -16,5 +16,3 @@ demonstrating OOP-based data generation and charting.
   height="600px" 
   frameborder="0">
 </iframe>
-
-> Replace the iframe src with your Posit Connect Cloud URL after deploying the Shiny app.
