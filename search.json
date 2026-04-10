@@ -11,7 +11,7 @@
     "href": "index.html#featured-visualization",
     "title": "Hi, I’m Egor 👋",
     "section": "Featured Visualization",
-    "text": "Featured Visualization\nBelow is an interactive demo built with Shiny for Python, demonstrating OOP-based data generation and charting.\n\n\n\nReplace the iframe src with your Posit Connect Cloud URL after deploying the Shiny app."
+    "text": "Featured Visualization\nBelow is an interactive demo built with Shiny for Python, demonstrating OOP-based data generation and charting."
   },
   {
     "objectID": "projects/index.html",
