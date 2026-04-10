@@ -8,7 +8,8 @@ building things that work — and understanding why they do.
 ## Featured Visualization
 
 Below is an interactive demo built with Shiny for Python, 
-demonstrating OOP-based data generation and charting.
+demonstrating OOP-based data generation and charting. TEEEEEEST
+
 
 <iframe 
   src="https://connect.posit.cloud/greencurve/content/019d776c-e746-a5c0-abe0-459f8c960d27"
