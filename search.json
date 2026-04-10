@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Hi, I’m Egor 👋",
+    "section": "",
+    "text": "Welcome to my portfolio. I’m a data science student passionate about building things that work — and understanding why they do."
+  },
+  {
+    "objectID": "index.html#featured-visualization",
+    "href": "index.html#featured-visualization",
+    "title": "Hi, I’m Egor 👋",
+    "section": "Featured Visualization",
+    "text": "Featured Visualization\nBelow is an interactive demo built with Shiny for Python, demonstrating OOP-based data generation and charting.\n\n\n\nReplace the iframe src with your Posit Connect Cloud URL after deploying the Shiny app."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Predictive modeling using game data from DOTA 2.\nStack: Python, Machine Learning\nView on GitHub"
+  },
+  {
+    "objectID": "projects/index.html#ml-dota-project",
+    "href": "projects/index.html#ml-dota-project",
+    "title": "Projects",
+    "section": "",
+    "text": "Predictive modeling using game data from DOTA 2.\nStack: Python, Machine Learning\nView on GitHub"
+  },
+  {
+    "objectID": "projects/index.html#presentation-to-gpt-converter",
+    "href": "projects/index.html#presentation-to-gpt-converter",
+    "title": "Projects",
+    "section": "Presentation to GPT Converter",
+    "text": "Presentation to GPT Converter\nConverts PowerPoint presentations into text for LLM consumption.\nStack: Python\nView on GitHub"
+  },
+  {
+    "objectID": "projects/index.html#interactive-portfolio-demo",
+    "href": "projects/index.html#interactive-portfolio-demo",
+    "title": "Projects",
+    "section": "Interactive Portfolio Demo",
+    "text": "Interactive Portfolio Demo\nOOP-based Shiny app — see the Home page for the live embed.\nStack: Python, Shiny, Posit Connect Cloud"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a student exploring data science, machine learning, and software development.\nSkills: Python · Data Analysis · OOP · Machine Learning\nGitHub: github.com/GreenCurve"
+  },
+  {
+    "objectID": "about.html#egor-lvov",
+    "href": "about.html#egor-lvov",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a student exploring data science, machine learning, and software development.\nSkills: Python · Data Analysis · OOP · Machine Learning\nGitHub: github.com/GreenCurve"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nCurrently studying Data Science / Computer Science"
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About Me",
+    "section": "Interests",
+    "text": "Interests\n\nBuilding tools that automate tedious things\nData visualization\nOpen source projects"
+  }
+]
