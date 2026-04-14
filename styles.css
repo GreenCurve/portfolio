@@ -87,11 +87,10 @@ section {
 }
 
 section h2 {
-  font-size: 0.75rem;
+  font-size: 1.1rem;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  color: #999;
+  letter-spacing: -0.2px;
+  color: #1a1a1a;
   margin-bottom: 20px;
 }
 
@@ -102,17 +101,18 @@ section h2 {
 
 .project h3 {
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 500;
   margin-bottom: 4px;
-  color: #1a1a1a;
+  color: #777;
 }
 
 .project h3 a {
-  color: #1a1a1a;
+  color: #777;
   text-decoration: none;
 }
 
 .project h3 a:hover {
+  color: #1a1a1a;
   text-decoration: underline;
 }
 
@@ -170,11 +170,12 @@ section h2 {
 }
 
 .edu-body strong a {
-  color: #1a1a1a;
+  color: #777;
   text-decoration: none;
 }
 
 .edu-body strong a:hover {
+  color: #1a1a1a;
   text-decoration: underline;
 }
 
