@@ -87,11 +87,11 @@ section {
 }
 
 section h2 {
-  font-size: 1.1rem;
+  font-size: 0.75rem;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: #1a1a1a;
+  letter-spacing: 0.08em;
+  color: #999;
   margin-bottom: 20px;
 }
 
@@ -101,14 +101,14 @@ section h2 {
 }
 
 .project h3 {
-  color: #888;
   font-size: 1rem;
   font-weight: 600;
   margin-bottom: 4px;
+  color: #1a1a1a;
 }
 
 .project h3 a {
-  color: #888;
+  color: #1a1a1a;
   text-decoration: none;
 }
 
@@ -117,7 +117,7 @@ section h2 {
 }
 
 .project p {
-  color: #444;
+  color: #555;
   font-size: 15px;
 }
 
@@ -127,8 +127,8 @@ section h2 {
   font-weight: 500;
   padding: 1px 7px;
   border-radius: 10px;
-  border: 1px solid #ccc;
-  color: #888;
+  border: 1px solid #ddd;
+  color: #aaa;
   vertical-align: middle;
   margin-left: 6px;
   text-transform: none;
@@ -139,15 +139,15 @@ section h2 {
 .edu-entry {
   display: flex;
   gap: 24px;
-  margin-bottom: 20px;
+  margin-bottom: 24px;
 }
 
 .edu-year {
   flex-shrink: 0;
-  width: 100px;
-  color: #888;
-  font-size: 14px;
-  padding-top: 2px;
+  width: 110px;
+  color: #999;
+  font-size: 13.5px;
+  padding-top: 3px;
 }
 
 .edu-body {
@@ -155,6 +155,76 @@ section h2 {
   color: #333;
 }
 
-.edu-body strong {
+.edu-title-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+
+.edu-logo {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+
+.edu-body strong a {
   color: #1a1a1a;
+  text-decoration: none;
+}
+
+.edu-body strong a:hover {
+  text-decoration: underline;
+}
+
+/* ── Skills link on main page ── */
+.skills-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #1a1a1a;
+  text-decoration: none;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 2px;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.skills-link:hover {
+  color: #444;
+  border-color: #999;
+}
+
+/* ── Skills page ── */
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13.5px;
+  color: #888;
+  text-decoration: none;
+  margin-bottom: 40px;
+  transition: color 0.15s;
+}
+
+.back-link:hover {
+  color: #1a1a1a;
+}
+
+.skills-page-header {
+  margin-bottom: 0;
+}
+
+.skills-page-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+.skill-description {
+  color: #555;
+  font-size: 15px;
+  margin-bottom: 20px;
 }
