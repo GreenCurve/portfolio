@@ -228,3 +228,42 @@ section h2 {
   font-size: 15px;
   margin-bottom: 20px;
 }
+
+/* ── Email reveal ── */
+.email-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 14px;
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  font-size: 13.5px;
+  color: #1a1a1a;
+  background: none;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.email-btn:hover {
+  background: #f2f2f2;
+  border-color: #999;
+}
+
+.email-btn svg {
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+}
+
+.email-reveal {
+  display: none;
+  font-size: 13.5px;
+  color: #555;
+  padding: 5px 0;
+  align-items: center;
+}
+
+.email-reveal.visible {
+  display: inline-flex;
+}
