@@ -268,3 +268,9 @@ section h2 {
 .email-reveal.visible {
   display: inline-flex;
 }
+
+.project p.project-purpose {
+  color: #999;
+  font-size: 13.5px;
+  margin-top: 3px;
+}
